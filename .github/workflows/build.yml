@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    runs-name: Build APK
+    name: Build APK
     runs-on: ubuntu-latest
 
     steps:
